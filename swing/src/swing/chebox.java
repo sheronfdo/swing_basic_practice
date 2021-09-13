@@ -43,7 +43,7 @@ public class chebox {
         box.setSelectedIcon(check);
         
         frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
-        frame.setBounds(1500, 0, 500, 500);
+        frame.setBounds(100, 0, 500, 500);
         frame.setLayout(null);
         frame.add(box);
         frame.add(button);

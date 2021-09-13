@@ -23,7 +23,7 @@ public class panel {
         JFrame frame = new JFrame();
         frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
         frame.setSize(500, 500);
-        frame.setBounds(1500,0,500,500);
+        frame.setBounds(150,0,500,500);
         frame.setVisible(true);
         frame.setLayout(new BorderLayout(5,5));
         

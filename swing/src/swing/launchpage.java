@@ -32,7 +32,7 @@ public class launchpage implements ActionListener {
         
         
         frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
-        frame.setBounds(1500, 0, 500, 500);
+        frame.setBounds(150, 0, 500, 500);
         frame.setLayout(null);
         frame.add(button);
         
